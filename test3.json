@@ -1,0 +1,11 @@
+{  
+   "product_id":"5008798",
+   "name":"Awesome Dino Shirt",
+   "price":"5.99",
+   "attributes":{               
+      "color":"blue",
+      "size":"large",
+      "type":"clothing",
+      "ounces":"5"
+   }                           
+}
